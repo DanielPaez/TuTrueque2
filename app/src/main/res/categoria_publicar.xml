@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+ 
+ 
+  <!-- Each position of id refers to an string array -->
+  
+  
+   
+      <string-array name="categorias_publicar">
+  
+ 
+	<item>Motor</item>
+ 
+	<item>Empleo</item>
+ 
+	<item>Idiomas</item>
+          <item>Construcción</item>
+          <item>Tecnologías</item>
+          <item>Formación y Libros</item>
+          <item>Moda,Ropa, Complementos</item>
+          <item>Mascotas</item>
+          <item>Deportes</item>
+ 	 
+      </string-array>
+
+  
+ </resources>
